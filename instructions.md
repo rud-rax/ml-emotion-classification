@@ -20,6 +20,7 @@ Train at least three models with the train set.
 Do K-Fold Cross validation with k = 5. Use the Validation Set to do hyperparameter tuning (use one feature selection method).
 Test the models using the test set and report metrics like Accuracy and Macro F1 Score.
 
+---
 Compare the metrics before and after feature selection and also for balanced and imbalanced datasets.
 Create a new report with the results of the classification models.
 Show the confusion matrix for the best model on each dataset.
