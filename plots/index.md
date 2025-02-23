@@ -9,3 +9,8 @@
 7. Correlation Matrix after PCA (balanced)
 8. Pairplot after PCA (imbalanced)
 9. Correlation Matrix after PCA (imbalanced)
+
+
+1 - imbalanced pca
+2 - balanced pca
+3 - 
